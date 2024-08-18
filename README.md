@@ -1,2 +1,2 @@
 # giftkardapi
-Kard Inc APIs for GiftKard Platform
+ APIs for GiftKard Platform
